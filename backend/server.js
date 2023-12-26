@@ -43,6 +43,25 @@ app.get('/inputs/inputPlayerMovement.js', (req, res) => {
   res.sendFile(path.join(publicPath, 'inputPlayerMovement.js'));
 });
 
+app.get('/inputs/mouseInput.js', (req, res) => {
+  res.sendFile(path.join(publicPath, 'mouseInput.js'));
+});
+
+app.get('/textures/projectileTexture.js', (req, res) => {
+  res.sendFile(path.join(publicPath, 'projectileTexture.js'));
+});
+
+app.get('/sprites/projectileSprite.js', (req, res) => {
+  res.sendFile(path.join(publicPath, 'playerprojectileSpriteSprite.js'));
+});
+
+
+app.get('/create/createProjectile.js', (req, res) => {
+  res.sendFile(path.join(publicPath, 'createProjectile.js'));
+});
+
+
+
 io.on('connection', (socket) => {
   console.log('Player connected');
 
