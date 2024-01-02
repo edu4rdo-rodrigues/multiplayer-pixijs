@@ -6,7 +6,9 @@ const createObstacleSprite = (app, obstacleTexture, x, y) => {
     obstacleSprite.x = x;
     obstacleSprite.y = y;
   
+    obstacleSprite.zIndex = 2;
     app.stage.addChild(obstacleSprite);
+    
   
     return obstacleSprite;
   };

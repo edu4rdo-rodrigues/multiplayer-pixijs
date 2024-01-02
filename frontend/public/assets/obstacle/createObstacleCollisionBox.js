@@ -21,6 +21,8 @@ const createObstacleCollisionBox = (app, obstacleSprite) => {
         collisionBoxSize + borderWidth
       );
     };
+
+    obstacleCollisionBox.zIndex = 2;
   
     return {
       updateCollisionBox,

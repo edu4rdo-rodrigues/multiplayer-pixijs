@@ -1,7 +1,7 @@
 // routes/routesTexture/textures.js
 
 const creates = [
-  "/create/createPlayer.js", 
+  "assets/create/createPlayer.js", 
   "/create/createProjectile.js"
 ];
 

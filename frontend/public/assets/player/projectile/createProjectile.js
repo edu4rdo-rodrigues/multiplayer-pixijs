@@ -1,7 +1,7 @@
 // create/createProjectile.js
 
-import createProjectileTexture from '../textures/projectileTexture.js';
-import createProjectileSprite from '../sprites/projectileSprite.js';
+import createProjectileTexture from './projectileTexture.js';
+import createProjectileSprite from './projectileSprite.js';
 
 const createProjectile = (app, playerX, playerY) => {
   const projectileTexture = createProjectileTexture(app);

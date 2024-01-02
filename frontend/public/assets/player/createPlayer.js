@@ -1,8 +1,8 @@
 // createSpritePlayer.js
 
-import createPlayerTexture from '../textures/playerTexture.js';
-import createPlayerSprite from '../sprites/playerSprite.js';
-import createPlayerCollisionBox from '../collisions/playerCollisonBox.js';
+import createPlayerTexture from './playerTexture.js';
+import createPlayerSprite from './playerSprite.js';
+import createPlayerCollisionBox from './playerCollisonBox.js';
 
 const createSpritePlayer = (app) => {
   const playerTexture = createPlayerTexture();

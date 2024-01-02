@@ -1,8 +1,8 @@
 // createObstacle.js
 
-import createObstacleTexture from '../textures/createObstacleTexture.js';
-import createObstacleSprite from '../sprites/createObstacleSprite.js';
-import createObstacleCollisionBox from '../collisions/createObstacleCollisionBox.js';
+import createObstacleTexture from './createObstacleTexture.js';
+import createObstacleSprite from './createObstacleSprite.js';
+import createObstacleCollisionBox from './createObstacleCollisionBox.js';
 
 const createObstacle = (app, x, y) => {
   const obstacleTexture = createObstacleTexture();

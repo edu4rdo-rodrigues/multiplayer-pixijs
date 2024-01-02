@@ -1,4 +1,4 @@
-// playerCollisionBox.js
+// playerCollisonBox.js
 
 const createPlayerCollisionBox = (app, playerSprite) => {
     const collisionBoxSize = 60;
@@ -21,6 +21,9 @@ const createPlayerCollisionBox = (app, playerSprite) => {
         collisionBoxSize + borderWidth
       );
     };
+
+    playerCollisionBox.zIndex = 4;
+
   
     return {
       updateCollisionBox,
