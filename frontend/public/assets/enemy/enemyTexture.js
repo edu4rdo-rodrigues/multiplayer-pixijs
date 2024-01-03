@@ -1,4 +1,4 @@
-// textures/enemyTexture.js
+// multiplayer-pixijs/frontend/public/assets/enemy/textures/enemyTexture.js
 
 import { images } from "../images/imagensPath.js";
 

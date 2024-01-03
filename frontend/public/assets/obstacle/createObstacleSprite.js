@@ -1,4 +1,4 @@
-// createObstacleSprite.js
+// multiplayer-pixijs/frontend/public/assets/obstacle/createObstacleSprite.js
 
 const createObstacleSprite = (app, obstacleTexture, x, y) => {
     const obstacleSprite = new PIXI.Sprite(obstacleTexture);

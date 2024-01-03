@@ -1,4 +1,4 @@
-// sprites/enemySprite.js
+// multiplayer-pixijs/frontend/public/assets/enemy/sprites/enemySprite.js
 
 const createEnemySprite = (app, enemyTexture, x, y) => {
   const enemySprite = new PIXI.Sprite(enemyTexture);

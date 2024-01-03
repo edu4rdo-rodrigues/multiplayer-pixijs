@@ -1,4 +1,4 @@
-// createObstacleCollisionBox.js
+// multiplayer-pixijs/frontend/public/assets/obstacle/createObstacleCollisionBox.js
 
 const createObstacleCollisionBox = (app, obstacleSprite) => {
     const collisionBoxSize = 60;

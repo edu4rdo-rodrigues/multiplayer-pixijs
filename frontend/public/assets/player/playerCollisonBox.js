@@ -1,4 +1,4 @@
-// playerCollisonBox.js
+// multiplayer-pixijs/frontend/public/assets/player/playerCollisonBox.js
 
 const createPlayerCollisionBox = (app, playerSprite) => {
     const collisionBoxSize = 60;

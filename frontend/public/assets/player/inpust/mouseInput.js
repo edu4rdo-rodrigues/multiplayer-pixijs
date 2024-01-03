@@ -1,4 +1,4 @@
-// inputs/mouseInput.js
+// multiplayer-pixijs/frontend/public/assets/player/inputs/mouseInput.js
 
 const setupMouseInput = (app, player, createProjectileCallback) => {
   // Antes do loop de animação

@@ -1,4 +1,4 @@
-// collisions/collisionDetection.js
+// multiplayer-pixijs/frontend/public/collisions/collisionDetection.js
 
 export const checkCollisions = (player, obstacle) => {
     // Verifique se as caixas de colisão do jogador e do obstáculo se sobrepõem

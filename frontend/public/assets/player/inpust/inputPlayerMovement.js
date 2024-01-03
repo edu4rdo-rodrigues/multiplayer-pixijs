@@ -1,3 +1,5 @@
+// multiplayer-pixijs/frontend/public/assets/player/inputs/inputPlayerMovement.js
+
 const inputPlayerMovement = (player) => {
     window.addEventListener('keydown', (e) => {
       const speed = 5;

@@ -1,4 +1,4 @@
-// create/createEnemy.js
+// multiplayer-pixijs/frontend/public/assets/enemy/create/createEnemy.js
 
 import createEnemyTexture from './enemyTexture.js';
 import createEnemySprite from './enemySprite.js';

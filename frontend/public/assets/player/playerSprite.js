@@ -1,4 +1,4 @@
-// playerSprite.js
+// multiplayer-pixijs/frontend/public/assets/player/playerSprite.js
 
 const createPlayerSprite = (app, playerTexture) => {
     const playerSprite = new PIXI.Sprite(playerTexture);

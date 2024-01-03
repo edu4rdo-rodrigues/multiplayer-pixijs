@@ -1,4 +1,4 @@
-// createSpritePlayer.js
+// multiplayer-pixijs/frontend/public/assets/player/createSpritePlayer.js
 
 import createPlayerTexture from './playerTexture.js';
 import createPlayerSprite from './playerSprite.js';

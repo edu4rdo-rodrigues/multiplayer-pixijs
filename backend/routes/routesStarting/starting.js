@@ -1,4 +1,4 @@
-// routes/routesStarting/starting.js
+// multiplayer-pixijs/routes/routesStarting/starting.js
 
 const starting = [
   "/", 

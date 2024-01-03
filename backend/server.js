@@ -1,4 +1,5 @@
-// server.js
+// multiplayer-pixijs/backend/server.js
+
 const express = require("express");
 const path = require("path");
 const http = require("http");
@@ -24,6 +25,6 @@ io.on("connection", (socket) => {
   });
 });
 
-server.listen(3300, () => {
-  console.log("Server is running on http://localhost:3300");
+server.listen(3333, () => {
+  console.log("Server is running on http://localhost:3333");
 });

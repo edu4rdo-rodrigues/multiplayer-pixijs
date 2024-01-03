@@ -1,4 +1,4 @@
-// collisions/collateralCollision/enemyDamage.js
+// multiplayer-pixijs/frontend/public/collisions/collateralCollision/enemyDamage.js
 
 import { checkProjectileEnemyCollision } from "../collisionDetection.js";
 

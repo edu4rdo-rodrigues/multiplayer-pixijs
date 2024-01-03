@@ -1,4 +1,4 @@
-// healthBar.js
+// multiplayer-pixijs/frontend/public/assets/enemy/healthBar.js
 
 const createHealthBar = (app, enemy) => {
   const barWidth = 50;

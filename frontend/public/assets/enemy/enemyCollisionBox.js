@@ -1,4 +1,4 @@
-// enemyCollisonBox.js
+// multiplayer-pixijs/frontend/public/assets/enemy/enemyCollisonBox.js
 
 const createEnemyCollisionBox = (app, enemySprite) => {
   const collisionBoxSize = 60;

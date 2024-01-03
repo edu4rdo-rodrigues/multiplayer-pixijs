@@ -1,4 +1,4 @@
-// create/createProjectile.js
+// multiplayer-pixijs/frontend/public/assets/player/projectile/createProjectile.js
 
 import createProjectileTexture from './projectileTexture.js';
 import createProjectileSprite from './projectileSprite.js';

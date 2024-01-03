@@ -1,4 +1,4 @@
-// playerTexture.js
+// multiplayer-pixijs/frontend/public/assets/player/playerTexture.js
 
 import { images } from "../images/imagensPath.js";
 

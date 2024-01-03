@@ -1,4 +1,4 @@
-// sprites/projectileSprite.js
+// multiplayer-pixijs/frontend/public/assets/player/projectile/projectileSprite.js
 
 const createProjectileSprite = (texture, x, y) => {
     const sprite = new PIXI.Sprite(texture);

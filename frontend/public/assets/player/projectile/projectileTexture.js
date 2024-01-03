@@ -1,4 +1,4 @@
-// textures/projectileTexture.js
+// multiplayer-pixijs/frontend/public/assets/player/projectile/projectileTexture.js
 
 const createProjectileTexture = (app) => {
     const graphics = new PIXI.Graphics();

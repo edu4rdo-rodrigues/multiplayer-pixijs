@@ -1,4 +1,4 @@
-// createObstacle.js
+// multiplayer-pixijs/frontend/public/assets/obstacle/createObstacle.js
 
 import createObstacleTexture from './createObstacleTexture.js';
 import createObstacleSprite from './createObstacleSprite.js';
