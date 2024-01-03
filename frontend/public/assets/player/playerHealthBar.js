@@ -3,7 +3,7 @@
 const createPlayerHealthBar = (app) => {
   const barWidth = 50;
   const barHeight = 10;
-  const backgroundColor = 0x555555;
+  const backgroundColor = 0xFF0000;
   const foregroundColor = 0xFF0000;
 
   const barBackground = new PIXI.Graphics();
